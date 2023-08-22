@@ -533,7 +533,12 @@ footer#footer {
     background-color: #f5f0ec; 
     transition: width 0.5s;  
 }
-
+.footer-kontakt {
+	margin-bottom: 120px;
+}
+.copy {
+	margin-bottom: 80px;
+}
 
 
 
