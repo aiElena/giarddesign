@@ -81,7 +81,6 @@ nav.navbar {
 	letter-spacing: -0.01em;
 	color: #111111;	
 }
-
 .dropdown-toggle::after {
     display: none;
 }
@@ -107,7 +106,6 @@ nav.navbar {
 	max-width: 596px;
 	margin: auto 0;
 }
-
 .btn-kontakt,
 .btn-realizacje {
 	padding: 12px 24px 14px;
@@ -119,13 +117,11 @@ nav.navbar {
 	font-size: 16px;
 	line-height: 150%;
 	text-align: center;
-	
 }
 .btn-kontakt {
 	color: #f5f0ec;
 	background-color: #1b5b31;
 }
-
 .btn-kontakt:hover,
 .btn-kontakt:focus,
 .btn1-kontakt:visited{
@@ -171,7 +167,6 @@ section.oferta p.oferta-txt {
 	padding-bottom: 80px;
 	max-width: 72%;
 }
-
 .card {
 	display: flex;
 	flex-direction: column;
@@ -183,7 +178,6 @@ section.oferta p.oferta-txt {
 	border: 1px solid #fff;
 	border-radius: 28px;
 }
-
 .card-icon {
 	width: 44px;
 	height: 44px;
@@ -200,8 +194,7 @@ section.oferta p.oferta-txt {
 	font-size: 14px;
 	line-height: 21px;
 	letter-spacing: -0.01em;
-	padding-bottom: 10px;
-	
+	padding-bottom: 10px;	
 }
 .card-footer {
 	padding: 0;
@@ -230,7 +223,9 @@ a.card-btn {
 a.card-btn:hover {
 	color: #1b5b31;
 }
+
 /* Realizacje-block */
+
 section.realizacje {
 	display: flex;
 	flex-direction: column;
@@ -252,6 +247,7 @@ section.realizacje {
 section.realizacje p.small {
 	color: #1b5b31;
 }
+
 /* firmie  */
 
 .firmie {
@@ -311,7 +307,6 @@ a.firmie-btn {
 section.instagram {
 	padding: 60px 0;
 	background-color: #f5f0ec;
-	/*background: linear-gradient(360deg, #dcc1ab 0%, rgba(214, 183, 158, 0) 100%);*/
 }
 section.instagram .kontakt {
 	display: inline-block;
@@ -358,14 +353,14 @@ section.instagram .inst-btn:focus {
 	color: #f5f0ec;
 	border: 1px solid #f5f0ec;
 }
-
 a.inst-btn {
 	text-decoration: none;
 }
+
 /*-------arrow-up------------*/
+
 footer#footer {
-	position: relative;
-	
+	position: relative;	
 }
 #go-top {
   position: fixed; 
@@ -407,7 +402,9 @@ footer#footer {
         transform: rotate(-135deg) translate(20px,20px);
     }
 }
-/*---------------*/
+
+/*------arrow-circle---------*/
+
 .arrow-circle {
     color: #1b5b31;
     cursor: pointer;
@@ -416,7 +413,6 @@ footer#footer {
     line-height: 24px;
     display: inline-block;
 }
-
 .arrow-circle .arrow-circle-icon {
     position: relative;
 	color: #1b5b31;
@@ -435,8 +431,10 @@ footer#footer {
 .arrow-circle:hover .arrow-circle-iconcircle {
     stroke-dashoffset: 0;
 }
+
 /*--------masonry----------*/
 /* Контейнер блоков Masonry */
+
 .masonry {
 	column-count: 3; 
 	column-gap: 44px; 
@@ -445,13 +443,17 @@ footer#footer {
 	background-color: #dcc1ab;
 	padding: 96px 0 44px;
 }
+
 /* Блоки Masonry */
+
 .masonry .item {
 	display: inline-block; 
 	width: 100%;           
 	margin-bottom: 1em;
 }
+
 /*  footer  */
+
 #footer {
 	background-color: #111111;
 	color: #f5f0ec;
@@ -464,7 +466,6 @@ footer#footer {
 	background-color: #111111;
 	margin: auto;
 	padding: 120px 110px;
-				
 }
 section.instagram .kontakt {
 	display: inline-block;
@@ -473,7 +474,6 @@ section.instagram .kontakt {
 	max-width: 1040px;
 	background-color: #1b5b31;
 	margin: auto;
-	/*padding: 120px 110px;*/
 }
 .logo-footer {
 	margin: 0 auto;
@@ -488,6 +488,17 @@ section.instagram .kontakt {
 	height: 0px;
 	border: 1px solid #f5f0ec;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
