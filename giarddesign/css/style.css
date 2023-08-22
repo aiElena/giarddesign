@@ -476,7 +476,12 @@ section.instagram .kontakt {
 	/*padding: 120px 110px;*/
 }
 .logo-footer {
-	width: 114px;
+	margin: 0 auto;
+	width: 114.37px;
+	height: 19px;
+	flex: none;
+	order: 0;
+	flex-grow: 0;
 }
 .line {
 	max-width: 1040px;
